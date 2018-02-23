@@ -3,14 +3,14 @@ Temporary fix for Skyrim SSE (64bit) running Campire, Frostfall, SKSE64, and Sky
 This is based off the authors temporary fix outlined here: http://www.dracotorre.com/blog/frostfall-se-skse64/ it fixes
 warmth and coverages values being forced 0 for everything and also not showing up in any of the menus. 
 
-# What you should already have installed:
+# What you should already have installed
 
 - Campfire 1.11 SE: https://www.nexusmods.com/skyrimspecialedition/mods/667
 - Frostfall 3.4.1 SE: https://www.nexusmods.com/skyrimspecialedition/mods/671
 - SKSE64 Alpha 2.0.6 SE: http://skse.silverlock.org/
 - SkyUI 5.2 SE: https://www.nexusmods.com/skyrimspecialedition/mods/12604
 
-# Fixing that install to work together:
+# Fixing that install to work together
 
 First install PapyrusUtil 3.4 SE: https://www.nexusmods.com/skyrimspecialedition/mods/13048/
 
