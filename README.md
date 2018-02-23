@@ -30,6 +30,8 @@ right of your screen:
 
 That's it, you're ready to roll!
 
+# Known issues
+
 The ultrawide fix has a known issue where the bottom black bar doesn't fully extend across the screen when in certain menus 
 but it is purely cosmetic. 
 
