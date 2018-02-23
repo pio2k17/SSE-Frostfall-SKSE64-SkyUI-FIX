@@ -1,11 +1,12 @@
 # SSE-Frostfall-SKSE64-SkyUI-FIX
 Temporary fix for Skyrim SSE (64bit) running Campire, Frostfall, SKSE64, and SkyUI. Fixes for 16:9 and 21:9 ultrawide.
-Based off authors temporary fix outlined here: http://www.dracotorre.com/blog/frostfall-se-skse64/
+This is based off the authors temporary fix outlined here: http://www.dracotorre.com/blog/frostfall-se-skse64/ it fixes
+warmth and coverages values being forced 0 for everything and also not showing up in any of the menus. 
 
-First install: https://www.nexusmods.com/skyrimspecialedition/mods/13048/?
+First install this: https://www.nexusmods.com/skyrimspecialedition/mods/13048/
 
-Then install this fix, install only one file using NMM. 16:9 users install the normal fix, 21:9 ultrawide users use the
-ultrawide fix. 
+Then install one of these FIX mods zip files using NMM. Only install one: 16:9 users install the normal fix, 21:9 ultrawide 
+users install the ultrawide fix. 
 
 Then after starting up Skyrim SSE SKSE564 go into MOD SETTINGS -> SkyUI and turn off version checking for these 4 menus: 
 inventory, barter, container, and crafting. Otherwise you will see warning popups when you initially use them.
@@ -15,3 +16,13 @@ right of your screen:
 >
 >  https://imgur.com/a/YYP6F
 >
+
+The ultrawide fix has a known issue where the bottom black bar doesn't fully extend across the screen when in certain menus 
+but it is purely cosmetic. 
+
+If you run into any issues with Frostfall not behaving right, especially the meters not showing up, you can use the following 
+method to reset frostfall but you'll lose all of your frostfall progress. To do this try disabling frostfall and this fix 
+temporarily in nexus mod manager. You can then load up your save, click ok when it warns you frostfall is missing, make 
+another save that no longer contains frostfall, then exit Skyrim and re-enable Frostfall and this fix, and load that new 
+save back up. You will not get to start frostfall from the beginning. For me this corrected an issue where no matter what my 
+frostfall gauges would not show up on an existing playthrough.
