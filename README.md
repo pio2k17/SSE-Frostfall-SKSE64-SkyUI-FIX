@@ -19,8 +19,8 @@ users install the ultrawide fix.
 
 ** When installing in NMM click "No" and "No" when the version/upgrade dialogs pop up, and then click "Yes to all" when asked about replacing files with the same names **
 
-Then after starting up Skyrim SSE SKSE564 go into MOD SETTINGS -> SkyUI and turn off version checking for these 4 menus: 
-inventory, barter, container, and crafting. Otherwise you will see warning popups when you initially use them.
+Then after starting up Skyrim SSE SKSE564 go into MOD SETTINGS -> SkyUI and turn off version checking for these 5 menus: 
+inventory, barter, container, magic, and crafting. Otherwise you will see warning popups when you initially use them.
 
 Instructions here for disabling those version checks and setting up your Frostfall meters to sit compactly at the top 
 right of your screen: 
