@@ -5,9 +5,9 @@ warmth and coverages values being forced 0 for everything and also not showing u
 
 # What you should already have installed:
 
-- Campfire 1.11SE: https://www.nexusmods.com/skyrimspecialedition/mods/667
-- Frostfall 3.4.1: https://www.nexusmods.com/skyrimspecialedition/mods/671
-- SKSE64 SE Alpha 2.0.6: http://skse.silverlock.org/
+- Campfire 1.11 SE: https://www.nexusmods.com/skyrimspecialedition/mods/667
+- Frostfall 3.4.1 SE: https://www.nexusmods.com/skyrimspecialedition/mods/671
+- SKSE64 Alpha 2.0.6 SE: http://skse.silverlock.org/
 - SkyUI 5.2 SE: https://www.nexusmods.com/skyrimspecialedition/mods/12604
 
 # Fixing that install to work together:
