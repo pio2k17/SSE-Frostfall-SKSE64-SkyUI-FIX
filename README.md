@@ -26,5 +26,5 @@ If you run into any issues with Frostfall not behaving right, especially the met
 method to reset frostfall but you'll lose all of your frostfall progress. To do this try disabling frostfall and this fix 
 temporarily in nexus mod manager. You can then load up your save, click ok when it warns you frostfall is missing, make 
 another save that no longer contains frostfall, then exit Skyrim and re-enable Frostfall and this fix, and load that new 
-save back up. You will not get to start frostfall from the beginning. For me this corrected an issue where no matter what my 
+save back up. You will now get to start frostfall from the beginning. For me this corrected an issue where no matter what my 
 frostfall gauges would not show up on an existing playthrough.
