@@ -5,7 +5,7 @@ warmth and coverages values being forced 0 for everything and also not showing u
 
 First install this: https://www.nexusmods.com/skyrimspecialedition/mods/13048/
 
-Then install one of these FIX mods zip files using NMM. Only install one: 16:9 users install the normal fix, 21:9 ultrawide 
+Then install one of these FIX mod zip files using NMM. Only install one: 16:9 users install the normal fix, 21:9 ultrawide 
 users install the ultrawide fix. 
 
 ** When installing in NMM click "No" and "No" when the version/upgrade dialogs pop up, and then click "Yes to all" when asked about replace files with the same names **
