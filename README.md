@@ -8,6 +8,8 @@ First install this: https://www.nexusmods.com/skyrimspecialedition/mods/13048/
 Then install one of these FIX mods zip files using NMM. Only install one: 16:9 users install the normal fix, 21:9 ultrawide 
 users install the ultrawide fix. 
 
+** When installing in NMM click "No" and "No" when the version/upgrade dialogs pop up, and then click "Yes to all" replace files **
+
 Then after starting up Skyrim SSE SKSE564 go into MOD SETTINGS -> SkyUI and turn off version checking for these 4 menus: 
 inventory, barter, container, and crafting. Otherwise you will see warning popups when you initially use them.
 
